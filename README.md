@@ -179,6 +179,7 @@ If you have installed Ganache, you can use Ganache for integrating the Smart Con
 You can link your Truffle Project to Ganache using the instructions the [Link](https://www.trufflesuite.com/docs/ganache/truffle-projects/linking-a-truffle-project)
 
 Linking the Truffle Project with Ganache CLI
+
 ![image](https://user-images.githubusercontent.com/29494759/142823834-ea83f295-8d0b-44b7-ad3d-89b3d65b8638.png)
 
 
