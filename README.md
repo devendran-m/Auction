@@ -179,10 +179,8 @@ If you have installed Ganache, you can use Ganache for integrating the Smart Con
 You can link your Truffle Project to Ganache using the instructions the [Link](https://www.trufflesuite.com/docs/ganache/truffle-projects/linking-a-truffle-project)
 
 Linking the Truffle Project with Ganache CLI
-```JPEG
-![image](https://user-images.githubusercontent.com/29494759/142823291-b80e6c62-777a-412d-82ee-45e5e6f3da57.png)
+![image](https://user-images.githubusercontent.com/29494759/142823834-ea83f295-8d0b-44b7-ad3d-89b3d65b8638.png)
 
-```
 
 Click ‘ADD PROJECT’, choose truffle-config.js from Auction project folder and ‘SAVE WORKSPACE’.
 
@@ -280,16 +278,11 @@ truffle(develop)>
 
 Now, if you go back to Ganache UI and navigate to 'Contracts' section, you will see that the status of the related Smart Contracts as 'Deployed'.
 You can also see the Contract address there.
-```JPEG
-![image](https://user-images.githubusercontent.com/29494759/142823348-4eaa61e7-bf62-45af-a8be-5090aedb78af.png)
-
-```
+![image](https://user-images.githubusercontent.com/29494759/142823972-14996cd1-7f31-4199-b292-60a907f2cce3.png)
 
 You can also see Block 0 details in ‘BLOCKS’ section.
-```JPEG
-![image](https://user-images.githubusercontent.com/29494759/142823406-65e1b993-4715-4896-9f6c-a090353d5f7a.png)
+![image](https://user-images.githubusercontent.com/29494759/142824013-d9e59062-1f84-4a04-8cb1-4ba349f99e95.png)
 
-```
 #### Interacting with deployed Smart Contract
 
 In order to interact with the deployed Smart Contract using web3.js, initialize npm and install web3 in your project folder. For instance;
