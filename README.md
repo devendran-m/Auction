@@ -278,10 +278,13 @@ truffle(develop)>
 
 Now, if you go back to Ganache UI and navigate to 'Contracts' section, you will see that the status of the related Smart Contracts as 'Deployed'.
 You can also see the Contract address there.
+
 ![image](https://user-images.githubusercontent.com/29494759/142823972-14996cd1-7f31-4199-b292-60a907f2cce3.png)
 
 You can also see Block 0 details in ‘BLOCKS’ section.
+
 ![image](https://user-images.githubusercontent.com/29494759/142824013-d9e59062-1f84-4a04-8cb1-4ba349f99e95.png)
+
 
 #### Interacting with deployed Smart Contract
 
