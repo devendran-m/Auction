@@ -1,4 +1,4 @@
-# Auctions DApp
+# Auctions Smart Contract
 
 ## Table of Contents
 
@@ -307,4 +307,5 @@ Install web3.js in the same project folder. Use --save, to save the configuratio
 npm install web3 --save
 ```
 
-Interact with deployed contract using Truffle Console
+Interact with deployed contract using Truffle Console by using the instructions in the [Link](https://www.trufflesuite.com/docs/truffle/quickstart#interacting-with-the-contract) here
+
